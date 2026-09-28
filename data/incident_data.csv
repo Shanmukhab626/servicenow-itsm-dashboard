@@ -1,0 +1,21 @@
+Incident_ID	Short_Description	Category	Priority	Status	Assignment_Group	Opened_By	Opened_At	Resolved_At	Resolution_Time_Hours	SLA_Met	Breach_Risk
+INC0001	Production server down critical app unavailable	Infrastructure	P1	Open	IT Infrastructure	John Smith	9/28/2026 9:14		0	No	Yes
+INC0002	VPN connectivity failure 50+ users affected	Network	P1	In Progess	Network Operations	Jane Doe	9/28/2026 9:45		0	No	Yes
+INC0003	Email system outage Exchange server	Software	P1	Open	IT Infrastructure	Mike Lee	9/28/2026 10:02		0	No	Yes - Breached
+INC0004	Database timeout errors ERP system	Database	P2	In Progress	Database Admin	Sara Kim	9/28/2026 10:18		0	Yes	No
+INC0005	Security alert unauthorized login attempt	Security	P2	In Progress	Security Team	Tom Park	9/28/2026 10:33		0	Yes	No
+INC0006	Printer not working Finance dept	Hardware	P3	Open	Help Desk L1	Amy Chen	9/28/2026 11:00		0	Yes	No
+INC0007	Software license expired Design team	Software	P3	Pending	Help Desk L1	Bob Ray	9/28/2026 11:15		0	Yes	No
+INC0008	Password reset multiple accounts	Access	P4	In Progress	Help Desk L1	Carol Sun	9/28/2026 11:30		0	Yes	No
+INC0009	Laptop slow performance HR Manager	Hardware	P3	Open	IT Infrastructure	Dan Wu	9/28/2026 11:45		0	Yes	No
+INC0010	Network drive inaccessible Ops team	Network	P2	In Progress	Network Operations	Eva Lin	9/28/2026 12:00		0	Yes	No
+INC0011	Application crash Finance software	Software	P2	Resolved	IT Infrastructure	Frank Ng	9/27/2026 14:00	9/27/2026 16:30	2.5	Yes	No
+INC0012	WiFi dropping in conference rooms	Network	P3	Resolved	Network Operations	Grace Ho	9/27/2026 10:00	9/27/2026 18:00	8	Yes	No
+INC0013	New employee account setup	Access	P4	Resolved	Help Desk L1	Henry Ma	9/26/2026 9:00	9/26/2026 11:00	2	Yes	No
+INC0014	Firewall rule blocking business app	Security	P2	Resolved	Security Team	Iris Ko	9/26/2026 11:00	9/26/2026 14:30	3.5	Yes	No
+INC0015	Server storage 95% full	Infrastructure	P2	Resolved	IT Infrastructure	Jack Yu	9/25/2026 8:00	9/25/2026 11:00	3	Yes	No
+INC0016	MFA not working for remote users	Access	P2	Resolved	Security Team	Karen Li	9/25/2026 9:30	9/25/2026 13:00	3.5	Yes	No
+INC0017	Zoom audio issues affecting all calls	Software	P3	Resolved	Help Desk L1	Leo Chan	9/24/2026 14:00	9/25/2026 8:00	18	Yes	No
+INC0018	Database backup failed overnight	Database	P2	Resolved	Database Admin	Mia Tan	9/24/2026 6:00	9/24/2026 9:30	3.5	Yes	No
+INC0019	P1 network outage main office	Network	P1	Resolved	Network Operations	Nick Lim	9/23/2026 10:00	9/23/2026 11:45	1.75	No	No
+INC0020	Ransomware alert endpoint quarantine	Security	P1	Resolved	Security Team	Olivia Wu	9/22/2026 15:00	9/22/2026 15:45	0.75	Yes	No
