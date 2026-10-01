@@ -119,7 +119,7 @@ servicenow-itsm-dashboard/
 ## 👩‍💻 Author
 
 **Shanmukha Sree Bendi**
-ServiceNow Administrator (CSA In Progress) · MS Information Systems
+ServiceNow Administrator · MS Information Systems
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/shanmukha-sree)
 [![Credly](https://img.shields.io/badge/Credly-14%20Badges-FF6B00?style=flat)](https://credly.com/users/shanmukha-sree-bendi)
